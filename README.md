@@ -1,2 +1,3 @@
-# 2024s_qtm350_ps01
-Problem Set 1
+# The Melancholy of Longevity
+
+Project Goal: To identify the critical predictors for human life expectancy based on Emory students' data.
